@@ -1,0 +1,4 @@
+POSTGRES_SSLMODE=disable
+POSTGRES_PASSWORD=searchforflight
+POSTGRES_USER=searchforflight
+POSTGRES_DB=searchforflight
